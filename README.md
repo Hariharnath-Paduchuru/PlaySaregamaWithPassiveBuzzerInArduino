@@ -8,7 +8,7 @@
 - Bread board
 
 ## Hardware schematic
-![Hardware Schematic](./PassiveBuzzer_schematic.png)
+![Hardware Schematic](./PassiveBuzzer_schematic1.png)
 
 ## Step 4: Compile and Upload the code
 
