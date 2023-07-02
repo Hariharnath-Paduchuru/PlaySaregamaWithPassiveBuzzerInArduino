@@ -8,7 +8,7 @@
 - Bread board
 
 ## Hardware schematic
-![Hardware Schematic](/Hariharnath-Paduchuru/PlaySaregamaWithPassiveBuzzerInArduino/main/PassiveBuzzer_schematic.webp)
+![Hardware Schematic](./PassiveBuzzer_schematic.png)
 
 ## Step 4: Compile and Upload the code
 
