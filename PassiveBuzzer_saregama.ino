@@ -1,3 +1,6 @@
+// Created by Hariharnath Paduchuru, IoT Frontier 
+// https://youtube.com/@iotfrontier
+
 int melody[] = {262, 294, 330, 349, 392, 440, 494, 523};
 const int buzzer = 8;
 int noteDuration = 850;
