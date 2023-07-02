@@ -10,7 +10,7 @@
 ## Hardware schematic
 ![Hardware Schematic](./PassiveBuzzer_schematic1.png)
 
-## Step 4: Compile and Upload the code
+## Compile and Upload the code
 
 - Connect the Arduino USB to PC and click the upload button to upload the code to the Board.
 
